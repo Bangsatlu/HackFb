@@ -28,7 +28,6 @@ def exit():
 	os.system('clear')
 	print "\033[1;91m[!] Closing the tool..."
 	os.system('sleep 3 && clear')
-	os.system('xdg-open https://web.facebook.com/mkdirlove.git')
 	os.sys.exit()
         tool_main_function()
 
