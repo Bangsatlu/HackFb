@@ -1,4 +1,4 @@
-# HackFb
+# Hackfb
 Adalah alat untuk meretas Facebook cara pakainya mudah cukup ketik
 
 $pkg update;pkg upgrade
