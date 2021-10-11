@@ -1,8 +1,9 @@
 # Hackfb
-Adalah alat untuk meretas Facebook
+Adalah Alat Untuk Meretas Akun Facebook Seseorang
 
 
-#USAGE
+#caranya
+
 $pkg update;pkg upgrade
 $pkg install git -y
 $pkg install python2 -y
